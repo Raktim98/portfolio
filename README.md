@@ -1,23 +1,12 @@
-A modern and responsive personal portfolio website built using React to showcase my skills, projects, achievements, and contact information. This portfolio highlights my work in web development, machine learning, and software projects with a clean and user-friendly interface.
+# React + Vite
 
-Features
-Responsive design for all devices
-Modern UI with smooth navigation
-Projects showcase section
-Skills and technologies section
-About me and contact section
-Interactive and customizable components
-Technologies Used
-React.js
-HTML5
-CSS3
-JavaScript
-Tailwind CSS
-Projects Included
-Advanced Dictionary Web App
-Weather App
-Text Summarization using Deep Learning
-Personal Portfolio Website
-Purpose
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-This portfolio was created to present my technical skills, academic projects, and development experience in a professional way for recruiters, internships, and job opportunities.
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
